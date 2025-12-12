@@ -8,4 +8,4 @@ image:
 service:
   type: NodePort
   port: 80
-  nodePort: 30080  # you can change this
+  nodePort: 30090  # you can change this

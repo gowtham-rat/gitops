@@ -8,4 +8,5 @@ image:
 service:
   type: NodePort
   port: 80
+  NortPort: 8090
 
